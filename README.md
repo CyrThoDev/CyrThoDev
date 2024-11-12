@@ -1,20 +1,4 @@
-### Hi there 👋
-
-<!--
-<h1 align="center">Hi 👋, I'm Cyrielle</h1>
-<h3 align="center">A web developper from Mimizan in</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrthodev" alt="cyrthodev" /></a> </p>
-
-- 🔭 I’m currently working on **a group project and 2 side projects as a Freelance developper**
-
-- 🌱 I’m currently learning **Next.js React Native**
-
-- 👯 I’m looking to collaborate on **projects with Ux/UI designers**
-
-- 🤝 I’m looking for help with **Any help can or tips be usefull**
-
-- 📫 How to reach me **cyriellethomas.pro@gmail.com**
+### Hi there 👋 I'm Cyrielle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +12,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrthodev&show_icons=true&locale=en" alt="cyrthodev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrthodev&" alt="cyrthodev" /></p>
--->
